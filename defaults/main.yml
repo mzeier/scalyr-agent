@@ -1,0 +1,6 @@
+---
+
+scalyr_api_key: "YOUR API KEY"
+
+# process nginx logs ?
+nginx_logs: false
